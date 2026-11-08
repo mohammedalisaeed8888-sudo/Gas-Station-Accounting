@@ -1,0 +1,10 @@
+{
+  "name": "نظام حسابات محطة الغاز",
+  "short_name": "حسابات الغاز",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f2f6f3",
+  "theme_color": "#12382c",
+  "lang": "ar",
+  "dir": "rtl"
+}
